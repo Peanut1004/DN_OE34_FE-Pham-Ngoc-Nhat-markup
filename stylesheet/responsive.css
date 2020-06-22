@@ -1,0 +1,225 @@
+/* Media Queries
+-------------------------------------------------------------- */
+@media only screen and (min-width: 1440px) and (max-width: 1699px) { 
+  
+}
+
+@media only screen and (max-width: 1440px) {
+
+} 
+
+@media only screen and (max-width: 1366px) {
+    
+}
+@media only screen and (min-width: 1200px) and (max-width: 1365px) { 
+
+}
+@media only screen and (max-width: 1200px) {
+  
+}
+@media only screen and (max-width: 1199px) {
+    .nav-sing {
+    	margin-left: 50px;
+    }
+    #mainnav .menu > li > a {
+    	padding: 30px 40px 30px 0;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+
+}
+@media only screen and (max-width: 1182px) { 
+    
+}
+@media only screen and (max-width: 1080px) {
+
+}
+@media only screen and (max-width: 1024px) {
+
+}
+
+/* Smaller than standard 1200 */
+@media only screen and (max-width: 1199px) {
+    
+}
+@media (min-width: 992px) {
+
+}
+/* Smaller than standard 992 */
+@media only screen and (max-width: 991px) {
+	.content-menu {
+		display: none;
+	}
+    .btn-menu {
+      display: block;
+    }
+    br {
+    	display: none;
+    }
+    .flex-common {
+        display: unset;
+    }
+    .sun-row {
+    	padding: 100px 0;
+    }
+    .sun-online-courses .custom-grid-columns,
+    .sun-team-member .custom-grid-columns {
+        grid-template-columns: auto auto;
+    }
+    .sun-services {
+    	padding: 100px 0 50px 0;
+    }
+    .sun-services .custom-grid-columns {
+        grid-template-columns: auto;
+    }
+    .iconbox-services p {
+    	padding-right: 0;
+    }
+    .sun-services .custom-grid-columns .iconbox-services.style1 {
+    	text-align: center;
+    	margin-bottom: 50px;
+    }
+    .sun-introduce .col-left {
+    	width: 100%;
+    	margin-bottom: 50px;
+    }
+    .sun-introduce .col-right {
+    	width: 100%;
+    	padding-left: 0;
+    }
+    .sun-benefit {
+    	padding: 100px 0;
+    }
+    .sun-benefit .col-left {
+        width: 100%;
+    }
+    .sun-benefit .col-right {
+        width: 100%;
+        padding-left: 0;
+    }
+    .sun-introduce .title-section {
+    	margin-bottom: 40px;
+    }
+    .sun-team-member {
+    	padding: 100px 0 50px 0;
+    }
+    .sun-quick-link {
+    	padding: 100px 0;
+    }
+    .sun-quick-link .col-left {
+        width: 100%;
+    }
+    .sun-quick-link .col-right {
+        width: 100%;
+        padding-left: 0;
+    }
+    .sun-quick-link .content-left p {
+    	padding-right: 0;
+    }
+    .sun-quick-link .content-left {
+    	margin-bottom: 40px;
+    }
+    .mg-widget {
+    	margin-bottom: 50px;
+    }
+    #footer #footer-widget {
+    	padding: 100px 0 50px 0;
+    }
+    #footer .form-send {
+    	margin-bottom: 70px;
+    }
+    #bottom .bottom-wrap {
+    	text-align: center;
+    }
+    #bottom .bottom-wrap .bottom-inside {
+        display: unset;
+    }
+    #bottom .bottom-wrap .bottom-bar-menu ul li {
+    	margin: 0 10px;
+    }
+    #bottom .bottom-wrap #copyright {
+    	margin-bottom: 10px;
+    }
+    
+}
+/* Tablet Landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+}
+
+/* Tablet Portrait Size */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* All Mobile Sizes */
+@media only screen and (max-width: 767px) {
+    .sun-online-courses .custom-grid-columns {
+        grid-template-columns: auto;
+    }
+    .iconbox-services.style2 {
+        width: 100%;
+    	text-align: center;
+        padding-right: 0;
+    }
+    #footer .custom-grid-columns .mg-widget {
+        width: 50%;
+    }
+}
+
+/* Mobile Landscape Size */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  
+}
+@media only screen and (max-width: 650px) {
+    
+}
+@media only screen and (max-width: 600px) {
+
+}
+@media only screen and (min-width: 576px) {
+
+}
+@media only screen and (max-width: 575px) {
+    .sun-team-member .custom-grid-columns {
+        grid-template-columns: auto;
+    }
+}
+
+/* Mobile Portrait Size */
+@media only screen and (max-width: 479px) {
+    #footer .custom-grid-columns .mg-widget {
+        width: 100%;
+    }
+}
+@media (max-width: 459px) {
+    
+}
+@media (max-width: 425px) {
+	.banner-section .content-wrap .title {
+		font-size: 55px;
+	}
+    .apply-now {
+    	padding: 60px 30px;
+    }
+}
+@media (max-width: 400px) {
+    
+}
+@media (max-width: 390px) {
+
+}
+@media (max-width: 375px) {
+    .imagebox-courses .featured-post .trainer {
+    	left: 20px;
+    }
+    .imagebox-courses .courses-info {
+    	padding: 45px 20px 20px 20px;
+    }
+    .imagebox-courses .evaluate {
+    	padding: 12px 20px;
+    }
+}
+@media (max-width: 320px) { 
+
+}   
